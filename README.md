@@ -34,10 +34,14 @@ A responsive website for a web studio, developed as part of the GoIT Frontend De
 
 **Technologies:** HTML5, CSS3, Responsive Web Design.
 
-## 📫 Contact
+## 🗣️ Languages
+
+- English — Pre-Intermediate
+- Ukrainian — Native
+
+## 📫 How to reach me:
 
 - **LinkedIn:** [Nataliia Siekierina](https://linkedin.com/in/nataliia-siekierina/)
-- **GitHub:** [Lia-Siekierina](https://github.com/Lia-Siekierina)
 <!--
 **Lia-Siekierina/Lia-Siekierina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
